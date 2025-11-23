@@ -1,0 +1,2 @@
+# Analyze-and-develop-strategies-to-Maximize-Revenue-per-Session-RPS-for-Maven-Fuzzy-Factory.
+Maven Fuzzy Factory is an online toy retailer with strong traffic but slow growth. Your mission is to diagnose the revenue funnel, identify the biggest opportunities, and propose high-impact business strategies that increase Revenue per Session (RPS) — the ultimate measure of how much value each visitor creates.
